@@ -1,0 +1,5 @@
+mysql-connector-python
+Pillow
+qrcode[pil]
+rich
+ttkthemes
